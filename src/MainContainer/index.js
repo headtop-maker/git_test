@@ -10,6 +10,7 @@ const MainContainer = ()=>{
               Main container
             </Text>
             <View>
+                    Task_Bb комментарий 12.40
                 <Text>
                     Task_B комментарий 12.36
                 </Text>
