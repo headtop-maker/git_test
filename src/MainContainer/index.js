@@ -9,7 +9,9 @@ const MainContainer = ()=>{
             <Text>
               Main container  add Task_C
             </Text>
-
+            <Text>
+              коммент 1352  add Task_C
+            </Text>
         </View>
     );
 };
