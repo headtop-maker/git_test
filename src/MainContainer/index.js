@@ -9,6 +9,12 @@ const MainContainer = ()=>{
             <Text>
               Main container
             </Text>
+            <View>
+                    Task_Bb комментарий 12.40
+                <Text>
+                    Task_B комментарий 12.36
+                </Text>
+            </View>
             <Text>
                 комментарий 12.29 TASK A
             </Text>
