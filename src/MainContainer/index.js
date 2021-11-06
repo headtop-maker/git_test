@@ -19,8 +19,10 @@ const MainContainer = () => {
                 комментарий 12.29 TASK A
             </Text>
             <Text>
-                комментарий 09.40 master
+                комментарий 09.06 develop
             </Text>
+
+
         </View>
     );
 };
