@@ -5,7 +5,7 @@ import { Colors } from "react-native/Libraries/NewAppScreen";
 const MainContainer = () => {
 
     return (
-        <View style={styles.sectionContainer}>
+        <><View style={styles.sectionContainer}>
             <Text>
                 Main container
             </Text>
@@ -22,18 +22,14 @@ const MainContainer = () => {
                 комментарий 09.06 develop
             </Text>
             <Text>
-<<<<<<< HEAD
                 комментарий 09.12 develop
             </Text>
-
-=======
-                комментарий 09.08 stage
-            </Text>
             <Text>
+                комментарий 09.08 stage
+            </Text><Text>
                 комментарий 09.13 stage
             </Text>
->>>>>>> origin/stage
-        </View>
-    );
+        </View >
+        </>);
 };
 export default MainContainer;
