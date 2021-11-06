@@ -30,6 +30,9 @@ const MainContainer = () => {
             <Text>
                 комментарий 09.13 stage
             </Text>
+            <Text>
+                комментарий 09.34 master
+            </Text>
         </View >
     );
 };
