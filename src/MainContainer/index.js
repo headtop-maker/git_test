@@ -36,7 +36,9 @@ const MainContainer = () => {
             <Text>
                 комментарий 09.41 dev
             </Text>
-
+            <Text>
+                комментарий 09.44 cherry
+            </Text>
         </View >
     );
 };
