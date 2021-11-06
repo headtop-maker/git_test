@@ -24,6 +24,9 @@ const MainContainer = () => {
             <Text>
                 комментарий 09.08 stage
             </Text>
+            <Text>
+                комментарий 09.13 stage
+            </Text>
         </View>
     );
 };
